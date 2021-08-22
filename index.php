@@ -53,7 +53,7 @@
     //Database Connection
 $server = "localhost";
 $username = "root";
-$database = "web_development";
+$database = "";
 $password = "";
 
 //Connection
@@ -64,7 +64,7 @@ if (!$conn) {
 } 
 
   //Fetch Record from Database
-  $fetch = "SELECT * FROM query";
+  $fetch = "SELECT * FROM name";
 
   $result = mysqli_query($conn, $fetch);
 
