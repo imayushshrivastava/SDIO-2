@@ -1,4 +1,4 @@
-# SDIO2 Internship / Workshop
+# S-DIO2 Internship / Workshop
 
 Project for First Code.
 
