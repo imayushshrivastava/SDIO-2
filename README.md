@@ -1,6 +1,6 @@
 # S-DIO2 Internship / Workshop
 
-Project for First Code.
+Project for CRUD PHP.
 
 ## Installation
 
