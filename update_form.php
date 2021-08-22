@@ -16,12 +16,11 @@
         <div class="row m-5">
             <div class="col-6">
                 <?php
-                include 'connection.php';
                 
                 $id = $_GET['id'];
 
                 //Fetch Record from Database
-                $fetch = "SELECT * FROM query WHERE id='$id'";
+                $fetch = "SELECT * FROM name WHERE id='$id'";
 
                 $result = mysqli_query($conn, $fetch);
 
